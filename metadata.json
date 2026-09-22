@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Emmi",
+  "description": "A premium, emotional, and interactive digital birthday celebration for Noushin Jahan Emmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
